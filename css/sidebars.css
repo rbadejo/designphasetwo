@@ -97,9 +97,9 @@ btn-toggle-nav a:hover, .btn-toggle-nav a:focus {
 
 .pagination {
   --bs-pagination-hover-color: #222;
---bs-pagination-hover-bg: #d2f4ea;;
+--bs-pagination-hover-bg: #7FB3D5;;
   --bs-pagination-active-color: #222;
-  --bs-pagination-active-bg: #d2f4ea;
+  --bs-pagination-active-bg: #7FB3D5;
   --bs-pagination-active-border-color: #222;
 
 }

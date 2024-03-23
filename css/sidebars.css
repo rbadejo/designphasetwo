@@ -1,7 +1,7 @@
 body {
   min-height: 100vh;
   min-height: -webkit-fill-available;
-  background-color: #FFFFFF; /* White background */
+  
 }
 
 html {
@@ -16,16 +16,16 @@ main {
   overflow-y: hidden;
 }
 .page-link:hover{
-  background-color: #DBD9D9;
+  background-color: #E6AF4B;
 }
 .page-link.active{
-  background-color: #DBD9D9;
+  background-color: #E6AF4B;
 }
 .btn-toggle-nav a :hover{
   background-color: #a19e9c;
 }
 btn-toggle-nav a:hover, .btn-toggle-nav a:focus {
-  background-color: #DBD9D9!important;
+  background-color: #E6AF4B!important;
 }
 .dropdown-toggle { outline: 0; }
 

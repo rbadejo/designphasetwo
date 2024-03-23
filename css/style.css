@@ -17,9 +17,11 @@ body{
 }
 .main-page h2{
     margin-bottom: 55px;
+    color: #7FB3D5;
 }
 .main-page h4{
     margin-top: 30px;
+    color: #7FB3D5;
 }
 /* COLOR PALLETE  */
 .bg-white {

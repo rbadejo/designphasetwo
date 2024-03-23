@@ -1,15 +1,15 @@
 body{
     font-family: "Philosopher", sans-serif;
-    background-color: #DBD9D9;;
+    background-color: #FFFFFF;;
 }
 .page-link {
     color: #404040;
 }
 .pagination {
     --bs-pagination-hover-color: #353535;
-    --bs-pagination-hover-bg: #DBD9D9;
+    --bs-pagination-hover-bg: #FFFFFF;
     --bs-pagination-active-color: #353535;
-    --bs-pagination-active-bg: #DBD9D9;
+    --bs-pagination-active-bg: #FFFFFF;
     --bs-pagination-active-border-color: #404040;
     --bs-pagination-bg: #CBC7C5;
     --bs-pagination-border-color: #404040;

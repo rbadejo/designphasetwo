@@ -11,7 +11,7 @@ body{
     --bs-pagination-active-color: #353535;
     --bs-pagination-active-bg: #FFFFFF;
     --bs-pagination-active-border-color: #404040;
-    --bs-pagination-bg: #CBC7C5;
+    --bs-pagination-bg: #E6AF4B;
     --bs-pagination-border-color: #404040;
     --bs-pagination-hover-border-color: 404040;
 }
@@ -23,12 +23,11 @@ body{
 }
 /* COLOR PALLETE  */
 .bg-white {
-    background-color: #CBC7C5 !important;
+    background-color: #E6AF4B !important;
 }
 .page-link:hover{
-background-color: #CBC7C5;
-}
-
+background-color: #E6AF4B;
+}E6AF4B
 .page-link{
     color: #000000 !important;
 }
